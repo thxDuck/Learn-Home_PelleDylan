@@ -4,39 +4,38 @@ Voici les différents liens vers les livrables du projets :
 
 User stories : https://docs.google.com/document/d/10onkP4QC0doIA7YH3MfQca9d_z2peBq4oEfAkvXhwvo/edit?usp=sharing
 
-Kanban Notion :  https://frequent-sprint-3f6.notion.site/Dev4U-projet-Learn-Home-91bdded3e0ea43638547301fca59bd4e
-
 Maquettes figma : https://www.figma.com/file/bfVtSVxA7Tnz47aF36Cd0A/Lean%40Home?node-id=0%3A1
+
+Kanban Notion : https://fir-mask-0bd.notion.site/Dev4U-projet-Learn-Home-1f599a1a338048198984bf73a316e66c
 
 
 
 ### Work In Progress :
 
-- [ ] User Stories : 
+- [x] User Stories : 
 	- [x] Page de connexion 
 	- [x] Tableau de bord
 	- [x] Calendrier
-	- [ ] Gestion des tâches (90%)
-	- [ ] Chat (25%)
+	- [x] Gestion des tâches
+	- [x] Chat
 
-- [ ] Cas d'usage : 
-	- [ ] Page de connexion (80%)
-	- [ ] Tableau de bord (20%)
-	- [ ] Calendrier (66%)
-	- [ ] Gestion des tâches (50%)
-	- [ ] Chat (66%)
+- [x] Cas d'usage : 
+	- [x] Page de connexion
+	- [x] Tableau de bord
+	- [x] Calendrier
+	- [x] Gestion des tâches
+	- [x] Chat
 
-- [ ] Maquettes : 
-	- [ ] Page de connexion
-	- [ ] Tableau de bord
-	- [ ] Calendrier
-	- [ ] Gestion des tâches
-	- [ ] Chat
+- [x] Maquettes : 
+	- [x] Page de connexion
+	- [x] Tableau de bord
+	- [x] Calendrier
+	- [x] Gestion des tâches
+	- [x] Chat
 
-- [ ] Kanban : 
-	- [ ] Page de connexion
-	- [ ] Tableau de bord
-	- [ ] Calendrier
-	- [ ] Gestion des tâches
-	- [ ] Chat
-
+- [x] Kanban : 
+	- [x] Page de connexion
+	- [x] Tableau de bord
+	- [x] Calendrier
+	- [x] Gestion des tâches
+	- [x] Chat
